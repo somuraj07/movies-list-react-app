@@ -38,11 +38,13 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
+  margin-left: 1rem;
+  margin-top: 1rem;
 }
 
 .search {
-  width: 71%;
-  margin: 4rem 0 2rem;
+  width: 50%;
+  margin: 4rem 26rem;
 
   display: flex;
   align-items: center;
@@ -73,6 +75,8 @@ h1 {
   height: 35px;
   cursor: pointer;
 }
+
+
 
 .empty {
   width: 100%;
